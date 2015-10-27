@@ -1,4 +1,4 @@
 # Kaggle-digit-recogniser
 
 ## Neuralnet
-[simplePrediction.html] Neural network using R package "neuralnet"
+* Neural network using R package "neuralnet": [results](http://htmlpreview.github.com/?simplePrediction.html)
